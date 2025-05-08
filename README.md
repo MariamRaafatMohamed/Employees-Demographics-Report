@@ -1,15 +1,15 @@
-# 🧑‍💼 Employees Demographics Report – Power BI
+# Employees Demographics Report – Power BI
 
 This Power BI dashboard provides a comprehensive overview of employee demographics across an organization. It highlights gender distribution, departmental spread, geographic location, average salary, and annual hiring trends to support HR analytics and strategic decision-making.
 
-## 🧩 Dashboard Features
+## Dashboard Features
 
-- 👩‍💼 **Gender Distribution**: Visual breakdown of employees by gender.
-- 🌍 **Location & Department Analysis**: Insights into where employees are located and their respective departments or positions.
-- 📈 **Hiring Trends**: Tracks the number of new hires per year.
-- 💵 **Average Salary**: Displays average salary figures across roles or regions.
+- **Gender Distribution**: Visual breakdown of employees by gender.
+- **Location & Department Analysis**: Insights into where employees are located and their respective departments or positions.
+- **Hiring Trends**: Tracks the number of new hires per year.
+- **Average Salary**: Displays average salary figures across roles or regions.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Tool**: Power BI
 - **Data Source**: HR employee dataset 
@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive overview of employee demographi
   - Line Charts
   - KPI Cards
 
-## 🧠 Insights Gained
+## Insights Gained
 
 - Understand workforce diversity across gender and regions.
 - Monitor how hiring has changed over the years.
@@ -28,7 +28,7 @@ This Power BI dashboard provides a comprehensive overview of employee demographi
 
 
 
-### 📷 Screenshot:
+### Screenshot:
 ![Employees Report](./employees-report.png)
 
 
