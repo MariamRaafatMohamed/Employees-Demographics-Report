@@ -33,5 +33,5 @@ This Power BI dashboard provides a comprehensive overview of employee demographi
 
 
 
-- Dashboard by [Mariam Raafat]
+- Dashboard by Mariam Raafat
 - Created as part of a data visualization learning journey
